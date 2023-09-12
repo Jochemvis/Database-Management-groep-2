@@ -1,3 +1,4 @@
+sep=,
 ,movie_ID,title,genre,metascore,userscore,url,sales_id
 0,1,!Women Art Revolution,Documentary,70,,https://www.metacritic.com/movie/!women-art-revolution,
 1,2,10 Cloverfield Lane,"Action,Sci-Fi,Drama,Mystery,Thriller,Horror",76,7.7,https://www.metacritic.com/movie/10-cloverfield-lane,17437.0
